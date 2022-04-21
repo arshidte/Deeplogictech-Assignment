@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{ background-color: #e8e8e8; padding: 20px ;}
+.navbar-brand{ text-decoration: none;}
+.text-danger { color: #b50808; font-size: 30px; text-decoration: none;}
+.container{width: 900px; margin-left: auto; margin-right: auto;}
+.container h3{ font-size: 25px; color: #000; }
+#storyHolder a { color: rgb(26, 26, 26); text-decoration: none;}
+
+#storyHolder a:hover{color: #000;}
